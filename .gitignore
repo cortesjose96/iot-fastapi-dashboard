@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.mypy_cache/
+Info/
+*.db
+*.sqlite3
+.env 
+
+# Archivos temporales de sistema
+.DS_Store
