@@ -11,7 +11,7 @@ Sistema de monitoreo industrial desarrollado con **Python (FastAPI)** y **SQLite
 ## Instalación
 1. Clonar el repositorio:
 ```bash
-   git clone [https://github.com/TU_USUARIO/iot-fastapi-dashboard.git](https://github.com/TU_USUARIO/iot-fastapi-dashboard.git)
+   git clone [https://github.com/cortesjose96/iot-fastapi-dashboard.git](https://github.com/cortesjose96/iot-fastapi-dashboard.git)
 ```
 
 2. Crear entorno virtual e instalar dependencias:
